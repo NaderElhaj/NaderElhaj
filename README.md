@@ -1,7 +1,6 @@
 
 
-### Hi there
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nader Elhaj!
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nader Elhaj!
 ---
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Naderelhaj3gma1?label=Follow%20Me&style=social"><p><a href="https://www.linkedin.com/in/nader-elhaj-48b253156/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> &nbsp; 
 ---
