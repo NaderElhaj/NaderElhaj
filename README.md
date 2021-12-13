@@ -7,6 +7,12 @@
 I am a creative collaborator. Leveraging my experience as a front-end developer and focus on elegant design and user experiences, I see the gaps left open between disciplines and bring them into focus.
 
 I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.
+
+
+
+- 👯 I’m looking to collaborate on React.js Projects
+- 📫 How to reach me: naderelhaj3@gmil.com
+
 </p>
 
 ---
