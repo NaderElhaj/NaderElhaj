@@ -4,13 +4,9 @@
 ---
 <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> &nbsp; 
 ---
-A Highly Motivated  Front End developer with  experience  in building websites and web applications.
-  
-I specialize in JavaScript and have professional experience Reactjs
+I am a creative collaborator. Leveraging my experience as a front-end developer and focus on elegant design and user experiences, I see the gaps left open between disciplines and bring them into focus.
 
-I also have experience working with Node.js,Express.js 
-
-And have So many Years Working With Html and Css
+I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.
 </p>
 
 ---
