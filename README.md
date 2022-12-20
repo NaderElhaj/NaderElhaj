@@ -10,7 +10,7 @@ I am a problem solver. I thrive on utilizing my peers’ and my combined experie
 
 
 
-- 👯 I’m looking to collaborate on React.js Projects
+- 👯 I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me: naderelhaj3@gmil.com
 
 </p>
